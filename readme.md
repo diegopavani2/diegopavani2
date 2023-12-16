@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 - 🔭 I’m currently working on **Jack in the box**
 
